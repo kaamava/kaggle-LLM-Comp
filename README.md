@@ -19,3 +19,5 @@ https://www.kaggle.com/datasets/cdeotte/60k-data-with-context-v2
 4. Based on the original text, prompt, options, and correct answers, we encoded the input using DeBERTa-v3-large and built a reading comprehension model using the AutoModelForMultipleChoice model from the Transformers library. When our model answers multiple-choice questions automatically, we first match the prompt and options with the original text and then use the model to predict the correct answer. Our model achieved a MAP@3 of 0.906 on the test set and ranked in the top xx% in the competition.
 
 5. During the competition, we made efficient use of the competition time, controlled the pace effectively, engaged in active discussions, and formulated reasonable tasks for model iteration. We also organized brainstorming sessions to drive the progress of the competition. Meanwhile, we worked on model development to ensure the highest possible prediction accuracy.
+![image](https://github.com/kaamava/kaggle-LLM-Comp/assets/106901273/9b23de6a-5940-4d52-91c2-270e1a5c3640)
+![image](https://github.com/kaamava/kaggle-LLM-Comp/assets/106901273/fd97ba12-2b3a-4c08-bba6-8a3a385ccf65)
